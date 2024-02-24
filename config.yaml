@@ -1,0 +1,14 @@
+menu:
+  main:
+    - identifier: categories
+      name: categories
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 20
+    - identifier: arxivj
+      name: arxivj
+      url: https://arxivj.github.io/
+      weight: 30
