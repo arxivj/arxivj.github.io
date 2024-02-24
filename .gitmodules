@@ -1,0 +1,7 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/arxivj/arxivj.github.io.git
+	branch = update
+[submodule "themes/PaperMod"]
+	path = themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
